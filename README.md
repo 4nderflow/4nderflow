@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/236x/62/5d/a1/625da1fcf285aa31d0baac03f4c5ffba.jpg" alt="Banner" width="800"/>
+<img src="https://i.pinimg.com/736x/30/8d/e8/308de80284d24aaa2695b555b8d476a1.jpg" alt="Banner" width="800"/>
 
 # 💫 About Me:
 Hello, my name is Ander (you can call me Ander). I'm a developer learning new things about tech.
