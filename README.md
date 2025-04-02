@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a developer who is trying to learn new tech stack.
+Hello, my name is Ander you can call me Ander, I'm a developer who is trying to learn new things about tech.
 
 
 # 💻 Tech Stack:
