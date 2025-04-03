@@ -41,6 +41,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/4nderflow/4nderflow/output/snake.svg" alt="Snake animation" />
+
 
 ###
