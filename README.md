@@ -4,7 +4,7 @@
 
 
 
-<b  align="center" style="border-bottom: none;font-size: 5em;">👋 Hello, Programmer!</b>
+<h2  align="center" style="border-bottom: none;font-size: 5em;">👋 Hello, Programmer!</h2>
 
 
 
