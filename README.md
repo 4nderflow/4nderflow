@@ -1,6 +1,6 @@
 <br clear="both">
 
-<img align="right" height="200" src="https://img.downkuai.com/uppic/20241219/e83e1c985e68bce0435d8109b970486e.gif"  />
+<img align="right" height="360px" width="360px" src="https://img.downkuai.com/uppic/20241219/e83e1c985e68bce0435d8109b970486e.gif"  />
 
 ###
 
@@ -48,18 +48,16 @@
 ###
 
 <div align="center">
-  <a href="1" target="_blank">
+  <a href="https://www.instagram.com/andermadeit_/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="60" height="40" alt="instagram logo"  />
   </a>
-  <a href="1" target="_blank">
+  <a href="youtube.com/@andermadeit" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="60" height="40" alt="youtube logo"  />
   </a>
-  <a href="1" target="_blank">
+  <a href="https://discord.gg/D6UeHFPH8R" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="60" height="40" alt="discord logo"  />
   </a>
-  <a href="1" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/patreon/default.svg" width="60" height="40" alt="patreon logo"  />
-  </a>
+  
 </div>
 
 ###
