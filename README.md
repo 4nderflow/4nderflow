@@ -1,19 +1,74 @@
-<img src="https://i.pinimg.com/736x/30/8d/e8/308de80284d24aaa2695b555b8d476a1.jpg" alt="Banner" width="800"/>
+<img align="right" height="200" width="100%" src="https://img.downkuai.com/uppic/20241219/e83e1c985e68bce0435d8109b970486e.gif"  />
 
-<h1>👋 Hi there!</h1>
-<h5>I'm Ander, and I'm a developer who love making random stuff with coding.</h5>
+###
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%2320232a.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+<h1 align="center">👋 Hello, Programmer!</h1>
 
-<h1>📊 Stats: </h1>
+###
 
-# 📌 Pinned Links:
-<div style="display: flex; align-items: center; gap: 10px;">
-<a href="#"><img src="https://cdn4.iconfinder.com/data/icons/logos-brands-7/512/instagram_icon-instagram_buttoninstegram-64.png" style="height: 35px" /></a>
-  <a href="#"><img src="https://cdn3.iconfinder.com/data/icons/social-network-flat-3/100/Discord-64.png" style="height: 35px" /></a>
+<h4 align="left">I'm Ander, you can call me Anderson, I'm a developer with 5+ years of experience, and I'm trying to learn new things about (new) tech.</h4>
+
+###
+
+<h1 align="center">💻 My Tech Stack:</h1>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
 </div>
 
+###
+
+<h1 align="center">📊 My Stats:</h1>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=4nderflow&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=4nderflow&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=4nderflow&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+</div>
+
+###
+
+<h1 align="center">My Social Media Links</h1>
+
+###
+
+<div align="center">
+  <a href="1" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="60" height="40" alt="instagram logo"  />
+  </a>
+  <a href="1" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="60" height="40" alt="youtube logo"  />
+  </a>
+  <a href="1" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="60" height="40" alt="discord logo"  />
+  </a>
+  <a href="1" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/patreon/default.svg" width="60" height="40" alt="patreon logo"  />
+  </a>
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/4nderflow/4nderflow/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/4nderflow/4nderflow/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/4nderflow/4nderflow/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/4nderflow/count.svg?"  />
+</div>
+
+###
