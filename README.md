@@ -1,4 +1,6 @@
-<img align="right" height="200"  src="https://img.downkuai.com/uppic/20241219/e83e1c985e68bce0435d8109b970486e.gif"  />
+<br clear="both">
+
+<img align="right" height="200" src="https://img.downkuai.com/uppic/20241219/e83e1c985e68bce0435d8109b970486e.gif"  />
 
 ###
 
@@ -9,6 +11,8 @@
 <h4 align="left">I'm Ander, you can call me Anderson, I'm a developer with 5+ years of experience, and I'm trying to learn new things about (new) tech.</h4>
 
 ###
+
+<br clear="both">
 
 <h1 align="center">💻 My Tech Stack:</h1>
 
@@ -31,7 +35,6 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=4nderflow&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=4nderflow&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://github-readme-stats.vercel.app/api?username=4nderflow&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
 </div>
@@ -59,3 +62,8 @@
 
 ###
 
+<div align="center">
+  <img src="https://profile-counter.glitch.me/4nderflow/count.svg?"  />
+</div>
+
+###
