@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hello, Programmer!</h1>
 <br clear="both">
 
-<img align="center" height="360px" width="auto" style="border-radius: 100%;" src="https://i.pinimg.com/736x/49/66/d2/4966d218888151764cb59ae809af8a47.jpg"  />
+<img align="center" height="260"  src="https://i.pinimg.com/736x/83/da/67/83da67c7b2bc1038df0c99575ca3476b.jpg"  />
 
 <h1 align="center">About Me:</h1>
 <h4 align="left">I'm Ander, you can call me Anderson, I'm a developer with 5+ years of experience, and I'm trying to learn new things about (new) tech.</h4>
