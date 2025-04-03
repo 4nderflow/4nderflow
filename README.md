@@ -10,5 +10,5 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 # 📌 Pinned Links:
-![Instagram](https://cdn4.iconfinder.com/data/icons/picons-social/57/38-instagram-2-64.png)
+<a href="#"><img src="https://cdn4.iconfinder.com/data/icons/logos-brands-7/512/instagram_icon-instagram_buttoninstegram-64.png" style="height: 35px" /></a>
 
