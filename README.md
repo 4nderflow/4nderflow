@@ -10,5 +10,8 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 # 📌 Pinned Links:
+<div style="display: flex; align-items: center; gap: 10px;">
 <a href="#"><img src="https://cdn4.iconfinder.com/data/icons/logos-brands-7/512/instagram_icon-instagram_buttoninstegram-64.png" style="height: 35px" /></a>
+  <a href="#"><img src="https://cdn3.iconfinder.com/data/icons/social-network-flat-3/100/Discord-64.png" style="height: 35px" /></a>
+</div>
 
